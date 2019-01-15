@@ -45,7 +45,7 @@ Because if who doesn't lock the door??
 
 #### But in all seriousness, the lock is a rotating disc, which was super simple to measure with a tilt sensor
 
-![](https://learn.adafruit.com/assets/492)
+![](https://cdn-learn.adafruit.com/assets/assets/000/000/492/original/force___flex_tiltcutaway.jpg?1396763538)
 
 ---
 
