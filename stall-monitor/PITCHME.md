@@ -18,9 +18,11 @@
 - IoT Device
 - Server
 - Client
+@snapend
 
 @snap[east]
 ![v2.0](stall-monitor/whiteboard.jpg)
+@snapend
 
 ---
 
