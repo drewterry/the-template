@@ -18,6 +18,8 @@
 - Server
 - Client
 
+![v2.0](./whiteboard.jpg)
+
 ---
 
 ### Presence Sensing
