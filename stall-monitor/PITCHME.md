@@ -18,7 +18,7 @@
 - Server
 - Client
 
-![v2.0](whiteboard.jpg)
+![v2.0](stall-monitor/whiteboard.jpg)
 
 ---
 
