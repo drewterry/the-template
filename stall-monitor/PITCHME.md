@@ -15,10 +15,10 @@
 @snapend
 
 @snap[west]
-- Sensor
-- IoT Device
-- Server
-- Client
+* Sensor
+* IoT Device
+* Server
+* Client
 @snapend
 
 @snap[east span-50]
