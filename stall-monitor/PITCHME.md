@@ -21,7 +21,7 @@
 - Client
 @snapend
 
-@snap[east]
+@snap[west]
 ![v2.0](stall-monitor/whiteboard.jpg)
 @snapend
 
