@@ -13,11 +13,13 @@
 
 ### System Architecture
 
+@snap[west]
 - Sensor
 - IoT Device
 - Server
 - Client
 
+@snap[east]
 ![v2.0](stall-monitor/whiteboard.jpg)
 
 ---
